@@ -1,2 +1,2 @@
-# alura
-Iniciante em programação - HTML e CSS 
+# Webpage HTML e CSS
+Página desenvolvida em HTML e CSS básico para fins de prática.
